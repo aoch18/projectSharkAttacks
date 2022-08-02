@@ -5,10 +5,10 @@ Data clean of data for analise shark attack around the world
 The project has how objective, create a clean data source to analyze and answer some question.
 
 # Questions
-What country has more shark attack report?
-What season has more shark attack report?
-How many fatal shark attack by season there are?
-What country has more fatal shark attack in summer?
+* What country has more shark attack report?
+* What season has more shark attack report?
+* How many fatal shark attack by season there are?
+* What country has more fatal shark attack in summer?
 
 ## Results
 
