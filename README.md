@@ -4,13 +4,13 @@ Data clean of data for analise shark attack around the world
 ## Description
 The project has how objective, create a clean data source to analyze and answer some question.
 
-#Questions
+# Questions
 What country has more shark attack report?
 What season has more shark attack report?
 How many fatal shark attack by season there are?
 What country has more fatal shark attack in summer?
 
-##Results
+## Results
 
 ![image](https://user-images.githubusercontent.com/29828029/182265115-dca0d467-5eee-480f-a3d9-d7cb1ed8a993.png)
 
@@ -26,9 +26,9 @@ What country has more fatal shark attack in summer?
 
 ![image](https://user-images.githubusercontent.com/29828029/182265341-9debea5a-b967-4dae-8225-d243177d8e4b.png)
 
-##Conclusion
+## Conclusion
 
 Finally we can say that summer season has more shark attack report and Australia is the country with more fatal shark attack report
 
-##Reference
+## Reference
 Data source https://www.kaggle.com/datasets/teajay/global-shark-attacks
